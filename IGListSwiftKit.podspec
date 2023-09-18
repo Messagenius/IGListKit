@@ -5,7 +5,7 @@
 
 Pod::Spec.new do |s|
   s.name = 'IGListSwiftKit'
-  s.version = `scripts/version.sh`
+  s.version = '4.1.0'
   s.summary = 'A data-driven UICollectionView framework.'
   s.homepage = 'https://github.com/Instagram/IGListKit'
   s.documentation_url = 'https://instagram.github.io/IGListKit'
