@@ -5,7 +5,7 @@
 
 Pod::Spec.new do |s|
   s.name = 'IGListDiffKit'
-  s.version = `scripts/version.sh`
+  s.version = '4.1.0'
   s.summary = 'Diffing utilities for a data-driven UICollectionView framework.'
   s.homepage = 'https://github.com/Instagram/IGListKit'
   s.documentation_url = 'https://instagram.github.io/IGListKit'
